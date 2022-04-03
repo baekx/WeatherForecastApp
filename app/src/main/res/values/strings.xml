@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">日出る国の日和</string>
+    <string name="temperature">%1$s°</string>
+    <string name="percent">%1$s %%</string>
+    <string name="humidity">湿度 %1$s %%</string>
+    <string name="cloudity">雲の量</string>
+    <string name="wind_unit">%1$s km/h</string>
+    <string name="wind_label">風(N)</string>
+    <string name="feel_like_label">体感</string>
+    <string name="humidity_label">湿度</string>
+    <string name="sunrise">日の出 %1$s</string>
+    <string name="sunset">日の入 %1$s</string>
+    <string name="date">%1$s</string>
+    <string name="population">人口 %1$s</string>
+    <string name="divider">/</string>
+</resources>
